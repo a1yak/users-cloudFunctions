@@ -18,6 +18,8 @@ dependencies {
 
     // JSON Library
     implementation 'com.google.code.gson:gson:2.9.1'
+    implementation 'com.google.cloud:google-cloud-firestore:3.11.0'
+
 
     // Lombok for boilerplate code
     compileOnly 'org.projectlombok:lombok:1.18.24'
